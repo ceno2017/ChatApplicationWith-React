@@ -7,9 +7,9 @@ import RoomList from "./components/RoomList";
 import SendMessageForm from "./components/SendMessageForm";
 
 const tokenUrl =
-  "https://us1.pusherplatform.io/services/chatkit_token_provider/v1/d40f8f1e-5a02-46b1-a8d6-05c78761c5ba/token";
+  "XXX";
 
-const instanceLocator = "v1:us1:d40f8f1e-5a02-46b1-a8d6-05c78761c5ba";
+const instanceLocator = "yyyyyyyyyyyyy";
 
 class App extends Component {
   constructor() {
